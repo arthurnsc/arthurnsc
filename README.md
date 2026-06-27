@@ -2,8 +2,6 @@
 
 Sou um desenvolvedor em início de carreira e estudante de Engenharia de Software
 
-### Estou buscando uma vaga de estágio
-
 ## Habilidades
 - JavaScript 
 - CSS
